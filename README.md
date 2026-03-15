@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SushmaReddy-12
+- 👋 Hi, I’m @Sushma
 - 👀 I’m interested in ...ReactJS
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...projets
